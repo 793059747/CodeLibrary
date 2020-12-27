@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace UseCar
 {
     /// <summary>
-    /// 简单工厂，配置文件实现版本，通过修改配置文件，控制程序实现
+    /// 简单工厂，配置文件实现版r本，通过修改配置文件，控制程序实现
     /// </summary>
     public class BossB
     {

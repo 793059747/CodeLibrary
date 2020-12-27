@@ -11,7 +11,7 @@ namespace UseCar
     public class Boss
     {  
         /// <summary>
-        /// 简单工厂-基础实现
+        /// 简单工厂-基础实现r
         /// </summary>
         /// <param name="carenum"></param>
         public void UseCar(carenum carenum)

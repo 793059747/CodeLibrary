@@ -9,7 +9,7 @@ using ICar;
 namespace UseCar
 {
     /// <summary>
-    /// 简单工厂通过反射，实现控制可扩展
+    /// 简单工厂通过反射，实现控制可扩展.
     /// </summary>
     public class BossC
     {
